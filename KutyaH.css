@@ -1,21 +1,22 @@
 ﻿*{
+
 }
 body
 {
-    background-color: antiquewhite;
+    background-color: rgb(20, 192, 211);
     font-family:'Times New Roman', serif;
+    color: white;
 }
 .img{
     text-align: center;
 }
 .Tartalom{
     border-radius: 15px;
-    margin-top: 5%;
-    margin-bottom: 15%;
-    margin-left: 15%;
-    margin-right: 15%;
-    border-color:brown;
-    border:solid 2px;
+    margin-top: 4%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border:solid 3px;
     padding: 2%;
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;

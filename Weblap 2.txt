@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -6,11 +6,7 @@
 
     <link href="Kutya.css" rel="stylesheet" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <div class="topnav">
-        <a class="active" href="file:///C:/Users/Szab%C3%B3%20%C3%81d%C3%A1m/Desktop/H%C3%81zi/UK/Programoz%C3%A1si%20alapok%20(2022)/Weblap%202/weblap%202.html" target="_blank">Német Juhász</a>
-        <a href="file:///C:/Users/Szab%C3%B3%20%C3%81d%C3%A1m/Desktop/H%C3%81zi/UK/Programoz%C3%A1si%20alapok%20(2022)/Weblap%202/Husky.html" target="_blank">Husky</a>
-        <a href="file:///C:/Users/Szab%C3%B3%20%C3%81d%C3%A1m/Desktop/H%C3%81zi/UK/Programoz%C3%A1si%20alapok%20(2022)/Weblap%202/rottweiler.html" target="_blank">Rottweiler</a>
-      </div>
+
     <title>Német Juhász</title>
 </head>
 <body>
@@ -21,10 +17,10 @@
 </div>
 <p> Ahogy  azt a neve is mutatja, a fajta Németországból származik. 
     Az ónémet juhászkutyából és különböző pásztorkutyákból tenyésztették ki. 
-    Végleges, mai formáját az 1800-as évek körül érte el. Eredetileg a neve Deutscher Schäferhund.</p>
+    Végleges, mai formáját az 1800-as évek körül érte el. Eredetileg a neve Deutscher Schäferhund.
 
 
-<p>Ónémet juhászkutya
+Ónémet juhászkutya
 A tenyésztők főleg a szépségre törekedtek, azt akarták elérni, hogy a 
 juhászkutya leginkább hasonlítson a farkashoz. Ilyen kutyák főleg két helyen voltak találhatóak, 
 ez a két tartomány Türingia és Württemberg. A német juhászkutya "atyja" Max von Stephanitz (1864-1936) 
@@ -37,7 +33,7 @@ hozzájuk mint társalapítók.
 <h3>Jellemzőit</h3>
 <ul>
 <li><b>Ügető típusú kutya,</b> a lábait átlósan viszi, a mozgása térölelő. A hátsó lábaival tudjon legalább a test közepéig lépni, a mellső lábai ugyanolyan hosszúak legyenek.</li>
-<li><b>Marmagasság:</b> kan: 62,5 cm., szuka: 57,5 cm., az eltérés mindkét nemnél legfeljebb +/- 2,5 cm. lehet.</li>
+<li><b>Marmagasság:</b> .</li>
 <li><b>Törzs:</b>  a hossza a marmagasságnak mintegy a 110-117%-a. A mellkas mély, nem túl széles. A dongás - hordó alakú - mellkas a mozgást korlátozza, mert a könyök kifordul. A has mérsékelten felhúzódó, a hát és az ágyék fejlett, erős, a mar és a far között nem hosszú. A mar hosszú és magas. Az ágyék izmos, széles. A far hosszú és enyhén, körülbelül 23 fokban csapott</li>
 <li><b>Mancs:</b>  kerekded, rövid, jól zárt, a talppárna nagyon kemény, rugalmas, a karom rövid, erős, sötét színű. A farkaskörmöket a néhány napos kölyöknél már el kell távolítani.</li>
 <li><b>Színezet:</b>  leggyakoribb a fekete hát, cser barna alapszín fekete nyereggel vagy aranysárgától a szürkéig terjedő rajzolatokkal, egyszerű szürke (ordas), ordas alapszín világos vagy barna jegyekkel (angolszász nyelvterületen: sable),egyszínű fekete, az utóbbi nagyon ritka, egyszínű fehér, ez főleg az Amerikai Egyesült Államokban és Kanadában gyakori.</li>

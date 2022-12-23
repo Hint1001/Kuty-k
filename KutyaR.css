@@ -2,25 +2,26 @@
 }
 body
 {
-    background-color: antiquewhite;
+    background-color: rgb(34, 31, 26);
     font-family:'Times New Roman', serif;
+    color:#ddd;
 }
+
 .img{
     text-align: center;
 }
 .Tartalom{
-    border-radius: 15px;
-    margin-top: 5%;
-    margin-bottom: 15%;
-    margin-left: 15%;
-    margin-right: 15%;
-    border-color:brown;
-    border:solid 2px;
-    padding: 2%;
-    -webkit-border-radius: 15px;
-    -moz-border-radius: 15px;
-    -ms-border-radius: 15px;
-    -o-border-radius: 15px;
+  border-radius: 15px;
+  margin-top: 4%;
+  margin-bottom: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border:solid 3px;
+  padding: 2%;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
 }
 
 .topnav {
